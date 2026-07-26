@@ -5,9 +5,7 @@
 </div>
 
   <!-- Static Subtitle (Jo hamesha visible rahega) -->
-  <p style="margin-top: 10px;">
-    <b>Translating research into production-ready intelligent software.</b>
-  </p>
+  
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -109,9 +107,6 @@ Outside AI systems, I contribute on the frontend — building React dashboards a
 | **Data Engineering** | ◉◉◉◎◎ | Preprocessing, feature engineering, EDA, pipeline automation |
 
 </div>
-
----
-
 ## 🚀 Featured Projects
 
 <details>
