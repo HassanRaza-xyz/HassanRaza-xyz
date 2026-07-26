@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Hassan%20Raza&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20%26%20Deep%20Learning%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Full-Stack%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-</p>
-
+<div align="center">
+  <h1> Hassan Raza</h1>
+  <p><b>AI Engineer • ML & Deep Learning • LLM Systems • Full-Stack AI</b></p>
+</div>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+from+the+Ground+Up;RAG+Architectures+%7C+LangChain+%7C+Gemini+API;Computer+Vision+%7C+NLP+%7C+Deep+Learning;AI-Integrated+Full-Stack+Engineering;KFUEIT+%E2%80%94+B.S.+Artificial+Intelligence+%7C+CGPA+3.32" alt="Typing SVG" />
