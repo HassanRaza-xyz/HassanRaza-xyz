@@ -90,21 +90,20 @@ Outside AI systems, I contribute on the frontend — building React dashboards a
 </div>
 
 ---
-
-## 🤖 AI / ML Expertise
+## 🤖 AI / ML Expertise (Visual Progress)
 
 <div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **RAG Architecture Design** | ◉◉◉◉◎ | Chunking strategies, embedding pipelines, semantic retrieval, Hugging Face embeddings |
-| **LLM Integration & Prompt Engineering** | ◉◉◉◉◎ | Gemini API, system prompt guardrails, hallucination elimination, context grounding |
-| **Supervised Machine Learning** | ◉◉◉◉◎ | Logistic Regression, classification, evaluation metrics, model selection |
-| **Computer Vision** | ◉◉◉◎◎ | Real-time gesture tracking, MediaPipe landmarks, OpenCV pipeline optimization |
-| **Natural Language Processing** | ◉◉◉◎◎ | PCFG parsing, VerbNet roles, WordNet clusters, NER, text summarization |
-| **Deep Learning Foundations** | ◉◉◉◎◎ | PyTorch · TensorFlow · model architectures · training workflows |
-| **Full-Stack AI Integration** | ◉◉◉◉◎ | FastAPI backends · React frontends · AI feature embedding in MERN apps |
-| **Data Engineering** | ◉◉◉◎◎ | Preprocessing, feature engineering, EDA, pipeline automation |
+  
+| 🛡️ Domain | 📊 Proficiency Level | 🛠️ Applied Skills |
+|:---|:---|:---|
+| **RAG Architectures** | ![](https://geps.dev/progress/90?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | Hugging Face, Semantic Search |
+| **LLM & Prompts** | ![](https://geps.dev/progress/90?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | Gemini API, System Guardrails |
+| **Supervised ML** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | Logistics, Feature Engineering |
+| **Computer Vision** | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | OpenCV, MediaPipe tracking |
+| **Natural Language Processing** | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | NER, Summarization, WordNet |
+| **Deep Learning** | ![](https://geps.dev/progress/70?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | PyTorch, TensorFlow workflows |
+| **Data Engineering** | ![](https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | Pandas, Numpy EDA, ETL Pipelines |
+| **Full-Stack AI** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | FastAPI backends, React UIs |
 
 </div>
 ## 🚀 Featured Projects
