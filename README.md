@@ -1,6 +1,13 @@
 <div align="center">
-  <h1> Hassan Raza</h1>
+  <h1> Hi, I'm Hassan Raza</h1>
   <p><b>AI Engineer • ML & Deep Learning • LLM Systems • Full-Stack AI</b></p>
+
+</div>
+
+  <!-- Static Subtitle (Jo hamesha visible rahega) -->
+  <p style="margin-top: 10px;">
+    <b>Translating research into production-ready intelligent software.</b>
+  </p>
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
