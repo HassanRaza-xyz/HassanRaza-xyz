@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HassanRaza-xyz">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://portfolio-green-six-xs5ltl2fnw.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://linkedin.com/in/hassan-raza-63b9b43ba">
     <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Raza-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -65,37 +65,23 @@ Outside AI systems, I contribute on the frontend — building React dashboards a
 - `AI Engineer` · `Applied AI Engineer` · `Forward Deployed Engineer`
 - `ML Engineer` · `Developer Advocate` · `AI-first Startups & Research Labs`
 
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,js,react,fastapi,flask,docker,git,github,vscode,jupyter,linux&theme=dark&perline=12" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,html,css,tailwind,nodejs,mongodb,postgres,redis&theme=dark&perline=10" />
-  </a>
-</p>
-
-<br/>
+---## ✦ Tech Stack
 
 <div align="center">
+  <p><strong>Languages</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,cpp" alt="Languages" /></a>
+  <br /><br />
+  
+  <p><strong>Frontend</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" /></a>
+  <br /><br />
+  
+  <p><strong>Backend & Databases</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mongodb" alt="Backend" /></a>
+  <br /><br />
 
-| Layer | Technologies |
-|:---|:---|
-| **Languages** | Python · TypeScript · JavaScript |
-| **Frontend** | React.js · Tailwind CSS · Data Visualization Dashboards |
-| **Backend & APIs** | FastAPI · Flask · REST API Design · Async Python |
-| **AI / ML Frameworks** | PyTorch · TensorFlow · Scikit-Learn · Hugging Face Transformers |
-| **LLM & RAG Tooling** | LangChain · LlamaIndex · Gemini API · Prompt Engineering · RAG Architectures |
-| **Computer Vision & NLP** | OpenCV · MediaPipe · NLTK · spaCy · Named Entity Recognition |
-| **Data Science** | Pandas · NumPy · Matplotlib · EDA · Feature Engineering |
-| **DevOps & Tooling** | Git · GitHub · Docker · Jupyter Notebook · VS Code |
-
+  <p><strong>Cloud, DevOps & Tooling</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Tools" /></a>
 </div>
 
 ---
@@ -332,17 +318,16 @@ Delivered production frontend features within an active MERN-stack engineering t
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanRaza-xyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=8B5CF6&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=HassanRaza-xyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7C3AED&title_color=8B5CF6&icon_color=7C3AED&text_color=E2E8F0" alt="Hassan's Github Stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRaza-xyz&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=8B5CF6&text_color=E2E8F0&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HassanRaza-xyz&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HassanRaza-xyz&theme=tokyonight&background=0D1117&border=7C3AED&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com/?user=HassanRaza-xyz&theme=tokyonight&background=0D1117&border=7C3AED&stroke=6D28D9&ring=8B5CF6&fire=A78BFA" alt="Streak Stats" />
 </p>
 
 ---
@@ -350,9 +335,8 @@ Delivered production frontend features within an active MERN-stack engineering t
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanRaza-xyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanRaza-xyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
@@ -425,9 +409,9 @@ Hassan_Raza:
     <img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/HassanRaza-xyz">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://portfolio-green-six-xs5ltl2fnw.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
