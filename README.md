@@ -61,7 +61,7 @@
 
 I'm a final-year **B.S. Artificial Intelligence** student at **KFUEIT** with a practitioner-first mindset. My engineering focus sits at the intersection of **LLM systems**, **retrieval-augmented generation**, and **full-stack AI integration** — designing software that doesn't just run models, but wraps them in reliable, low-latency pipelines that non-technical stakeholders can trust.
 
-Across two internships — **ML Engineering at HexSoftwares** and **AI-integrated full-stack at MercurySols** — I've moved from data preprocessing and classification baselines to building end-to-end RAG chatbots, real-time NLP visualizers, and gesture-driven computer vision systems. My product engineering philosophy centers on **accuracy, interpretability, and developer experience**: clean APIs, strict prompt guardrails, and measurable evaluation loops.
+Across two internships — **ML Engineering at HexSoftwares** and **AI-integrated full-stack at MercurySols** I've moved from data preprocessing and classification baselines to building end-to-end RAG chatbots, real-time NLP visualizers, and gesture-driven computer vision systems. My product engineering philosophy centers on **accuracy, interpretability, and developer experience**: clean APIs, strict prompt guardrails, and measurable evaluation loops.
 
 Outside AI systems, I contribute on the frontend building React dashboards and async FastAPI backends that make model outputs actionable in production UIs.
 
