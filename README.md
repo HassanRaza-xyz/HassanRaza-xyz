@@ -4,7 +4,7 @@
 
 </div>
 
-  <!-- Static Subtitle (Jo hamesha visible rahega) ->
+  <!-- Static Subtitle (Jo hamesha visible rahega) -->
   
 </div>
 <p align="center">
