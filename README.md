@@ -70,7 +70,7 @@ Outside AI systems, I contribute on the frontend building React dashboards and a
 - `AI Engineer` · `Applied AI Engineer` · `Forward Deployed Engineer`
 - `ML Engineer` · `Developer Advocate` · `AI-first Startups & Research Labs`
 
---## ✦ Tech Stack
+--##✦ Tech Stack
 
 <div align="center">
   <p><strong>Languages</strong></p>
