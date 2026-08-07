@@ -106,7 +106,7 @@ Outside AI systems, I contribute on the frontend building React dashboards and a
 | **Full-Stack AI** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=A78BFA&successColor=C084FC) | FastAPI backends, React UIs |
 
 </div>
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><b>⚡ Context-Aware AI Chatbot Engine — LangChain × Gemini API</b></summary>
