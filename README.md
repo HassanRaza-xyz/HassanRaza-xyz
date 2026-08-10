@@ -109,7 +109,7 @@ Outside AI systems, I contribute on the frontend building React dashboards and a
 ##  Featured Projects
 
 <details>
-<summary><b>⚡ Context-Aware AI Chatbot Engine — LangChain × Gemini API</b></summary>
+<summary><b> Context-Aware AI Chatbot Engine — LangChain × Gemini API</b></summary>
 
 <br/>
 
