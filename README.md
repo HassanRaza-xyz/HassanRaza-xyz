@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Hassan Raza </h1>
-  <p><b>AI Engineer • ML  Deep Learning • LLM Systems • Full-Stack AI</b></p>
+  <p><b>AI Engineer • ML & Deep Learning • LLM Systems • Full-Stack AI</b></p>
 
 </div>
 
